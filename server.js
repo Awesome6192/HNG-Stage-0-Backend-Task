@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     const response = {
         email: 'christianchibuike14@gmail.com',
         current_datetime,
-        github_url: 'https://github.com/Awesome6192/HNG-Stage-0-Backend-Task.git'
+        github_url: 'https://github.com/Awesome6192/HNG-Stage-0-Backend-Task'
     };
     
     // Send the response as JSON with HTTP status code 200 (OK)
