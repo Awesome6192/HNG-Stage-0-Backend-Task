@@ -33,23 +33,17 @@ This API was developed as part of the HNG Internship Stage 0 task. It provides a
    cd HNG-Stage-0-Backend-Task
    ```
 
-2. Create and navigate to the Api directory:
-   ```bash
-   mkdir Api
-   cd Api
-   ```
-
-3. Initialize the project:
+2. Initialize the project:
    ```bash
    npm init -y 
    ```
 
-4. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install express cors
    ```
 
-5. Run the application:
+4. Run the application:
    - For development:
      ```bash
      nodemon server.js
@@ -61,7 +55,7 @@ This API was developed as part of the HNG Internship Stage 0 task. It provides a
 
 ## Deployment
 
-This API is deployed on [render.com] and can be accessed at: [https://hng-stage-0-backend-task.onrender.com/]
+This API is deployed on [Render](https://render.com) and can be accessed at: [https://hng-stage-0-backend-task.onrender.com/](https://hng-stage-0-backend-task.onrender.com/)
 
 ## Technologies Used
 
