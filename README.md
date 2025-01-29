@@ -12,7 +12,7 @@ This API was developed as part of the HNG Internship Stage 0 task. It provides a
 ## API Specification
 
 ### Endpoint
-- URL: `GET https://hng-stage-0-backend-task.onrender.com/`
+- URL: `GET https://hng-stage-0-backend-task-chibuzor.onrender.com`
 - Request Method: `GET`
 - Response Format: JSON
 
@@ -55,7 +55,7 @@ This API was developed as part of the HNG Internship Stage 0 task. It provides a
 
 ## Deployment
 
-This API is deployed on [Render](https://render.com) and can be accessed at: [https://hng-stage-0-backend-task.onrender.com/](https://hng-stage-0-backend-task.onrender.com/)
+This API is deployed on [Render](https://render.com) and can be accessed at: [https://hng-stage-0-backend-task-chibuzor.onrender.com](https://hng-stage-0-backend-task-chibuzor.onrender.com)
 
 ## Technologies Used
 
